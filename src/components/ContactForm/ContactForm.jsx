@@ -37,7 +37,7 @@ const ContactForm = () => {
               <input type="email" name='email'/>
             </div>
             <div className="form__controller">
-              <label htmlFor="text">Text</label>
+              <label htmlFor="text">Your Message</label>
               <textarea name='text' rows={8}/>
             </div>
 
